@@ -1,1 +1,1 @@
-Exercicios realizados na Trybe
+Exercicios de fixação de conteúdo - Trybe
